@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Arturo Flores Rivera</h1>
-<h3 align="center">Electronic Engineer and MCA student at LANIA from Mexico</h3>
+<h3 align="center">Bachelor Degree in Electronic Engineer and Master Degree in Applied Computing from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ei-flores&label=Profile%20views&color=0e75b6&style=flat" alt="ei-flores" /> </p>
 

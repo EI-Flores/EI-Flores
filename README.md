@@ -51,6 +51,6 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ei-flores&show_icons=true&theme=dark&title_color=2205ff&text_color=fff700&bg_color=0e0123&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="ei-flores" /></p>
 
 <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ei-flores&show_icons=true&theme=blue-green" alt="ei-flores" />
-   <img align="center" src="https://streak-stats.demolab.com/?user=ei-flores&theme=blue-green" alt="ei-flores" />
+   <img align="center" witdh="50%" src="https://github-readme-stats.vercel.app/api?username=ei-flores&show_icons=true&theme=blue-green" alt="ei-flores" />
+   <img align="center" witdh="50%" src="https://streak-stats.demolab.com/?user=ei-flores&theme=blue-green" alt="ei-flores" />
 </p>

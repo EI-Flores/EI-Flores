@@ -13,9 +13,11 @@
    <img src="https://komarev.com/ghpvc/?username=ei-flores&label=Profile%20views&color=0e75b6&style=flat" alt="ei-flores" />
 </p>
 
+<!--
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=ei-flores&theme=matrix" alt="ei-flores"></a>
 </p>
+-->
 
 <p align="left"> <a href="https://twitter.com/ie_floresr" target="blank"><img src="https://img.shields.io/twitter/follow/ie_floresr?logo=twitter&style=for-the-badge" alt="ie_floresr" /></a> </p>
 
@@ -62,3 +64,4 @@
    <img align="center" witdh="450" src="https://github-readme-stats.vercel.app/api?username=ei-flores&show_icons=true&theme=blue-green" alt="ei-flores" />
    <img align="center" witdh="450" src="https://streak-stats.demolab.com/?user=ei-flores&theme=blue-green" alt="ei-flores" />
 </p>
+

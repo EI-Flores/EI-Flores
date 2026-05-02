@@ -7,7 +7,7 @@
 Electronics Engineer with a Master's degree in Applied Computing.  
 I build practical software solutions for administrative systems, mobile field operations, document automation, infrastructure support, and applied computer vision.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Arturo%20Flores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ie-juan-arturo-flores/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EI--Flores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ei-flores/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--9380--2893-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9380-2893)
 [![GitHub](https://img.shields.io/badge/GitHub-EI--Flores-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EI-Flores)
 

@@ -9,6 +9,7 @@ I build practical software solutions for administrative systems, mobile field op
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EI--Flores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ei-flores/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--9380--2893-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9380-2893)
+[![X](https://img.shields.io/badge/X-ie__floresr-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ie_floresr)
 [![GitHub](https://img.shields.io/badge/GitHub-EI--Flores-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EI-Flores)
 
 </div>
@@ -67,11 +68,12 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ### DevOps & Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -119,7 +121,7 @@ I am focused on building a stronger remote-work portfolio around:
 - DevOps workflows for small and medium-sized teams
 - Reliable documentation and maintainable software
 
-My goal is to build software that works in real environments, not only in demos.
+My goal is to build reliable software for real operational environments, with clear documentation, maintainable architecture, and practical deployment workflows.
 
 ---
 
@@ -139,4 +141,5 @@ My goal is to build software that works in real environments, not only in demos.
 
 - LinkedIn: [ei-flores](https://www.linkedin.com/in/ei-flores/)
 - ORCID: [0009-0004-9380-2893](https://orcid.org/0009-0004-9380-2893)
+- X / Twitter: [@ie_floresr](https://x.com/ie_floresr)
 - GitHub: [EI-Flores](https://github.com/EI-Flores)

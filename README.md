@@ -137,6 +137,6 @@ My goal is to build software that works in real environments, not only in demos.
 
 ## Contact
 
-- LinkedIn: [ie-juan-arturo-flores](https://www.linkedin.com/in/ie-juan-arturo-flores/)
+- LinkedIn: [ei-flores](https://www.linkedin.com/in/ei-flores/)
 - ORCID: [0009-0004-9380-2893](https://orcid.org/0009-0004-9380-2893)
 - GitHub: [EI-Flores](https://github.com/EI-Flores)

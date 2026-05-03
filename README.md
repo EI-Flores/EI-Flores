@@ -2,10 +2,10 @@
 
 # Juan Arturo Flores
 
-### Backend & Mobile Developer | Java Spring Boot | React Native / Expo | DevOps | Computer Vision
+### Backend & Universal App Developer | Java Spring Boot | React Native / Expo | DevOps | Computer Vision
 
 Electronics Engineer with a Master's degree in Applied Computing.  
-I build practical software solutions for administrative systems, mobile field operations, document automation, infrastructure support, and applied computer vision.
+I build practical software solutions for administrative systems, universal applications, field operations, document automation, infrastructure support, and applied computer vision.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EI--Flores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ei-flores/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--9380--2893-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9380-2893)
@@ -20,7 +20,16 @@ I build practical software solutions for administrative systems, mobile field op
 
 I am a developer with a mixed background in **software engineering, electronics, automation, and applied computing**.
 
-My current work focuses on backend systems, mobile applications, document generation, Linux-based deployments, and practical DevOps workflows. I enjoy building software that solves real operational problems, especially for administrative processes, field data collection, reporting, and internal management systems.
+My work focuses on backend systems, universal applications, mobile field workflows, document generation, Linux-based deployments, and practical DevOps processes. I enjoy building software that solves real operational problems, especially for administrative processes, field data collection, reporting, automation, and internal management systems.
+
+My professional profile combines:
+
+- Backend development
+- Mobile and universal app development
+- Applied computer vision
+- Electronics and automation
+- Linux infrastructure and DevOps foundations
+- Technical documentation and maintainable software practices
 
 I am currently strengthening my portfolio for **remote backend, mobile, fullstack, and DevOps-oriented roles**.
 
@@ -29,11 +38,12 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 ## Current focus
 
 - Backend development with **Java, Spring Boot, REST APIs, MariaDB, JWT, Swagger/OpenAPI**
-- Mobile development with **React Native / Expo**, SQLite, camera workflows, geolocation, offline-first logic, and synchronization
+- Universal app development with **React Native / Expo** for Android, iOS, and web
+- Mobile workflows with **SQLite, camera features, geolocation, offline-first logic, and synchronization**
 - DevOps foundations with **Linux, Docker, Docker Compose, Nginx, Jenkins, GitHub Actions**
 - Document automation with **PDF and Excel generation**
-- Applied Computer Vision with **Python, OpenCV, and machine learning tools**
-- Technical documentation for maintainable and reproducible projects
+- Applied Computer Vision with **Python, OpenCV, data processing, and machine learning tools**
+- Technical documentation for maintainable, reproducible, and deployable projects
 
 ---
 
@@ -41,10 +51,12 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 
 - Administrative and internal management systems
 - REST APIs with authentication, roles, validations, and database integration
+- Universal applications using React Native / Expo
 - Mobile apps for field inspections, evidence capture, offline workflows, and synchronization
 - PDF and Excel document generation from structured business data
 - Dockerized development and deployment environments
 - Computer vision prototypes and automation tools
+- Embedded systems and electronics-related proof of concepts
 - Technical documentation for handover, deployment, and maintenance
 
 ---
@@ -62,12 +74,14 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-### Mobile
+### Universal Apps & Mobile
 
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### DevOps & Infrastructure
 
@@ -97,17 +111,46 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 
 APIs for administrative workflows, catalogs, users, roles, reporting, validations, file generation, and database-driven business processes.
 
-### Mobile field applications
+### Universal and mobile applications
 
-Mobile apps designed for field operations, offline storage, geolocation, watermarked photo evidence, structured forms, and later synchronization with backend services.
+Applications built with React Native / Expo for Android, iOS, and web, focused on practical workflows such as data capture, offline storage, synchronization, evidence management, and field operations.
 
 ### DevOps and deployment labs
 
-Local infrastructure projects using Docker, Linux, reverse proxies, CI/CD pipelines, database services, and deployment documentation.
+Local infrastructure projects using Docker, Linux, reverse proxies, CI/CD pipelines, database services, monitoring tools, and deployment documentation.
 
 ### Computer Vision
 
-Academic and experimental work related to image processing, classification, visual recognition, and applied machine learning.
+Academic and experimental work related to image processing, classification, visual recognition, automation, and applied machine learning.
+
+### Electronics and automation
+
+Proofs of concept that connect software development with electronics, sensors, embedded systems, automation, and practical engineering problem solving.
+
+---
+
+## Profile highlights
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=EI-Flores&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Portfolio status
+
+I am currently improving my public portfolio with selected projects focused on:
+
+- Backend systems with Java, Spring Boot, REST APIs, MariaDB, authentication, validations, and document generation
+- Universal applications with React Native / Expo for Android, iOS, and web
+- Mobile field applications with offline-first logic, camera workflows, geolocation, and synchronization
+- DevOps labs with Linux, Docker, Docker Compose, Nginx, Jenkins, and GitHub Actions
+- Computer Vision and automation prototypes using Python, OpenCV, and applied engineering concepts
+- Electronics and embedded systems proof of concepts
+
+My priority is to keep fewer repositories, but with better documentation, clearer architecture, and practical demonstrations.
 
 ---
 
@@ -116,24 +159,13 @@ Academic and experimental work related to image processing, classification, visu
 I am focused on building a stronger remote-work portfolio around:
 
 - Java / Spring Boot backend development
-- React Native / Expo mobile applications
+- React Native / Expo universal applications
 - Fullstack systems with practical deployment requirements
 - DevOps workflows for small and medium-sized teams
+- Computer Vision and automation applied to practical use cases
 - Reliable documentation and maintainable software
 
 My goal is to build reliable software for real operational environments, with clear documentation, maintainable architecture, and practical deployment workflows.
-
----
-
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EI-Flores&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EI-Flores&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-</div>
 
 ---
 

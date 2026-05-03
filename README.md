@@ -2,7 +2,7 @@
 
 # Juan Arturo Flores
 
-### Backend & Universal App Developer | Java Spring Boot | React Native / Expo | DevOps | Computer Vision
+### Backend & Universal App Developer | Spring Boot | React Native / Expo | DevOps Foundations | Computer Vision
 
 Electronics Engineer with a Master's degree in Applied Computing.  
 I build practical software solutions for administrative systems, universal applications, field operations, document automation, infrastructure support, electronics, automation, and applied computer vision.
@@ -20,7 +20,7 @@ I build practical software solutions for administrative systems, universal appli
 
 I am a developer with a mixed background in **software engineering, electronics, automation, and applied computing**.
 
-My work focuses on backend systems, universal applications, mobile field workflows, document generation, Linux-based deployments, practical DevOps processes, electronics-related prototypes, and applied computer vision.
+My work focuses on backend systems, universal applications, mobile field workflows, document generation, Linux-based deployments, practical deployment processes, electronics-related prototypes, and applied computer vision.
 
 I enjoy building software that solves real operational problems, especially for administrative processes, field data collection, reporting, automation, document workflows, and internal management systems.
 
@@ -30,10 +30,11 @@ My professional profile combines:
 - Mobile and universal app development
 - Applied computer vision
 - Electronics and automation
-- Linux infrastructure and DevOps foundations
+- Linux infrastructure and deployment foundations
+- Docker-based local environments
 - Technical documentation and maintainable software practices
 
-I am currently strengthening my portfolio for **remote backend, mobile, fullstack, and DevOps-oriented roles**.
+I am currently strengthening my portfolio for **remote backend, mobile, fullstack, and DevOps-oriented developer roles**.
 
 ---
 
@@ -42,7 +43,7 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 - Backend development with **Java, Spring Boot, REST APIs, MariaDB, JWT, Swagger/OpenAPI**
 - Universal app development with **React Native / Expo** for Android, iOS, and web
 - Mobile workflows with **SQLite, camera features, geolocation, offline-first logic, and synchronization**
-- DevOps foundations with **Linux, Docker, Docker Compose, Nginx, Jenkins, GitHub Actions**
+- Deployment and DevOps foundations with **Linux, Docker, Docker Compose, Nginx, Jenkins, and GitHub Actions**
 - Document automation with **PDF and Excel generation**
 - Applied Computer Vision with **Python, OpenCV, data processing, and machine learning tools**
 - Electronics and automation proof of concepts with practical engineering applications
@@ -86,7 +87,7 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 ![Web](https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### 🐳 DevOps & Infrastructure
+### 🐳 Deployment, DevOps Foundations & Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
@@ -104,13 +105,14 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
 
 ### 🔌 Electronics & Engineering
 
-![Arduino](https://img.shields.io/badge/Embedded%20Systems-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-555555?style=flat-square)
 ![Automation](https://img.shields.io/badge/Automation-2E8B57?style=flat-square)
-![Electronics](https://img.shields.io/badge/Electronics-555555?style=flat-square)
+![Electronics](https://img.shields.io/badge/Electronics-444444?style=flat-square)
 ![Sensors](https://img.shields.io/badge/Sensors-FF6F00?style=flat-square)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-4B0082?style=flat-square)
 
@@ -126,9 +128,9 @@ APIs for administrative workflows, catalogs, users, roles, reporting, validation
 
 Applications built with React Native / Expo for Android, iOS, and web, focused on practical workflows such as data capture, offline storage, synchronization, evidence management, and field operations.
 
-### 🧪 DevOps and deployment labs
+### 🧪 Deployment and infrastructure labs
 
-Local infrastructure projects using Docker, Linux, reverse proxies, CI/CD pipelines, database services, monitoring tools, and deployment documentation.
+Local infrastructure projects using Docker, Linux, reverse proxies, CI/CD basics, database services, monitoring tools, and deployment documentation.
 
 ### 👁️ Computer Vision
 
@@ -157,7 +159,7 @@ I am currently improving my public portfolio with selected projects focused on:
 - Backend systems with Java, Spring Boot, REST APIs, MariaDB, authentication, validations, and document generation
 - Universal applications with React Native / Expo for Android, iOS, and web
 - Mobile field applications with offline-first logic, camera workflows, geolocation, and synchronization
-- DevOps labs with Linux, Docker, Docker Compose, Nginx, Jenkins, and GitHub Actions
+- Deployment labs with Linux, Docker, Docker Compose, Nginx, Jenkins, and GitHub Actions
 - Computer Vision and automation prototypes using Python, OpenCV, and applied engineering concepts
 - Electronics and embedded systems proof of concepts
 
@@ -172,7 +174,7 @@ I am focused on building a stronger remote-work portfolio around:
 - Java / Spring Boot backend development
 - React Native / Expo universal applications
 - Fullstack systems with practical deployment requirements
-- DevOps workflows for small and medium-sized teams
+- Docker and Linux deployment workflows for small and medium-sized teams
 - Computer Vision and automation applied to practical use cases
 - Reliable documentation and maintainable software
 

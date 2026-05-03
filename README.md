@@ -5,7 +5,7 @@
 ### Backend & Universal App Developer | Java Spring Boot | React Native / Expo | DevOps | Computer Vision
 
 Electronics Engineer with a Master's degree in Applied Computing.  
-I build practical software solutions for administrative systems, universal applications, field operations, document automation, infrastructure support, and applied computer vision.
+I build practical software solutions for administrative systems, universal applications, field operations, document automation, infrastructure support, electronics, automation, and applied computer vision.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EI--Flores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ei-flores/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--9380--2893-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9380-2893)
@@ -16,11 +16,13 @@ I build practical software solutions for administrative systems, universal appli
 
 ---
 
-## About me
+## 👨‍💻 About me
 
 I am a developer with a mixed background in **software engineering, electronics, automation, and applied computing**.
 
-My work focuses on backend systems, universal applications, mobile field workflows, document generation, Linux-based deployments, and practical DevOps processes. I enjoy building software that solves real operational problems, especially for administrative processes, field data collection, reporting, automation, and internal management systems.
+My work focuses on backend systems, universal applications, mobile field workflows, document generation, Linux-based deployments, practical DevOps processes, electronics-related prototypes, and applied computer vision.
+
+I enjoy building software that solves real operational problems, especially for administrative processes, field data collection, reporting, automation, document workflows, and internal management systems.
 
 My professional profile combines:
 
@@ -35,7 +37,7 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 
 ---
 
-## Current focus
+## 🎯 Current focus
 
 - Backend development with **Java, Spring Boot, REST APIs, MariaDB, JWT, Swagger/OpenAPI**
 - Universal app development with **React Native / Expo** for Android, iOS, and web
@@ -43,11 +45,12 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 - DevOps foundations with **Linux, Docker, Docker Compose, Nginx, Jenkins, GitHub Actions**
 - Document automation with **PDF and Excel generation**
 - Applied Computer Vision with **Python, OpenCV, data processing, and machine learning tools**
+- Electronics and automation proof of concepts with practical engineering applications
 - Technical documentation for maintainable, reproducible, and deployable projects
 
 ---
 
-## What I build
+## 🏗️ What I build
 
 - Administrative and internal management systems
 - REST APIs with authentication, roles, validations, and database integration
@@ -61,9 +64,9 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 
 ---
 
-## Tech stack
+## 🛠️ Tech stack
 
-### Backend
+### ⚙️ Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -74,7 +77,7 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-### Universal Apps & Mobile
+### 📱 Universal Apps & Mobile
 
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
@@ -83,7 +86,7 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 ![Web](https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### DevOps & Infrastructure
+### 🐳 DevOps & Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
@@ -95,7 +98,7 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Data, Automation & Computer Vision
+### 🤖 Data, Automation & Computer Vision
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -103,33 +106,41 @@ I am currently strengthening my portfolio for **remote backend, mobile, fullstac
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
+### 🔌 Electronics & Engineering
+
+![Arduino](https://img.shields.io/badge/Embedded%20Systems-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-2E8B57?style=flat-square)
+![Electronics](https://img.shields.io/badge/Electronics-555555?style=flat-square)
+![Sensors](https://img.shields.io/badge/Sensors-FF6F00?style=flat-square)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-4B0082?style=flat-square)
+
 ---
 
-## Project areas
+## 🚀 Project areas
 
-### Backend systems
+### 🧩 Backend systems
 
 APIs for administrative workflows, catalogs, users, roles, reporting, validations, file generation, and database-driven business processes.
 
-### Universal and mobile applications
+### 🌐 Universal and mobile applications
 
 Applications built with React Native / Expo for Android, iOS, and web, focused on practical workflows such as data capture, offline storage, synchronization, evidence management, and field operations.
 
-### DevOps and deployment labs
+### 🧪 DevOps and deployment labs
 
 Local infrastructure projects using Docker, Linux, reverse proxies, CI/CD pipelines, database services, monitoring tools, and deployment documentation.
 
-### Computer Vision
+### 👁️ Computer Vision
 
 Academic and experimental work related to image processing, classification, visual recognition, automation, and applied machine learning.
 
-### Electronics and automation
+### 🔌 Electronics and automation
 
 Proofs of concept that connect software development with electronics, sensors, embedded systems, automation, and practical engineering problem solving.
 
 ---
 
-## Profile highlights
+## 🏆 Profile highlights
 
 <div align="center">
 
@@ -139,7 +150,7 @@ Proofs of concept that connect software development with electronics, sensors, e
 
 ---
 
-## Portfolio status
+## 📌 Portfolio status
 
 I am currently improving my public portfolio with selected projects focused on:
 
@@ -154,7 +165,7 @@ My priority is to keep fewer repositories, but with better documentation, cleare
 
 ---
 
-## Professional direction
+## 🧭 Professional direction
 
 I am focused on building a stronger remote-work portfolio around:
 
@@ -169,7 +180,7 @@ My goal is to build reliable software for real operational environments, with cl
 
 ---
 
-## Contact
+## 📫 Contact
 
 - LinkedIn: [ei-flores](https://www.linkedin.com/in/ei-flores/)
 - ORCID: [0009-0004-9380-2893](https://orcid.org/0009-0004-9380-2893)
